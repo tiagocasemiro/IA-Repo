@@ -1,0 +1,4 @@
+interface:
+  display_name: "NanoReply"
+  short_description: "Gera respostas curtas, claras e naturais"
+  default_prompt: "Use $nano-reply para transformar esta intenção em uma resposta curta, clara e natural."
