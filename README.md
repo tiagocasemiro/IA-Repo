@@ -2,7 +2,7 @@
 
 Repositório pessoal de skills para agentes de programação.
 
-[![skills.sh](https://skills.sh/b/tiagocasemiro/IA-Repo)](https://skills.sh/tiagocasemiro/IA-Repo)
+[![skills.sh](https://skills.sh/b/tiagocasemiro/IA-Repo)](https://skills.sh/tiagocasemiro/IA-Repo/nano-reply)
 
 ## NanoReply
 
@@ -11,7 +11,9 @@ Skill para criar, encurtar ou reescrever respostas curtas, diretas e naturais em
 Instalação:
 
 ```bash
-npx skills add tiagocasemiro/IA-Repo --skill nano-reply
+npx skills add https://github.com/tiagocasemiro/IA-Repo --skill nano-reply
 ```
 
-Arquivos da skill: [`skills/nano-reply/SKILL.md`](skills/nano-reply/SKILL.md)
+Página no skills.sh: <https://skills.sh/tiagocasemiro/IA-Repo/nano-reply>
+
+Arquivo da skill: [`skills/nano-reply/SKILL.md`](skills/nano-reply/SKILL.md)
