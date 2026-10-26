@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prompt Guide"
+  short_description: "Aplica prompting avançado e verificável à engenharia"
+  default_prompt: "Use $prompt-guide para escolher e aplicar um padrão seguro de prompting a esta tarefa de engenharia."

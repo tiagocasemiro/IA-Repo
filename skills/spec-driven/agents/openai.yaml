@@ -1,0 +1,4 @@
+interface:
+  display_name: "Spec Driven"
+  short_description: "Enriqueça prompts e gere PRD, Tech Spec e tarefas"
+  default_prompt: "Use $spec-driven para transformar minha ideia em prompt enriquecido, PRD, especificação técnica e tarefas."
